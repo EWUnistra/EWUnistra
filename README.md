@@ -12,13 +12,12 @@ Le plus souvent : centres d'intérêt techniques, langages préférés, technnol
 
 #### Scripts 💾
 
-- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
-- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
+- Tirage de noms : script Python **Tirage aléatoire**
+
   
 #### Exercices 👨‍🎓
 
-- [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
-- [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
+- Rédiger un README
 
 
 
