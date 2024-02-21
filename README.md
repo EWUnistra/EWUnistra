@@ -1,52 +1,25 @@
-### Bienvenue sur cette vue de profil 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
+# Bienvenue sur cette vue de profil <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
-Profil pour démo.
+### Profil pour démo.
 
-I love ≡𝐺𝑂, and like to contribute to open-source projects on my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
+Saisir ici une *brève description synthétique* des répertoires qui sont épinglés ci-dessous.  
+Ne pas reproduire son CV : il est préférable de proposer un lien vers le CV complet.  
+Cet espace est plutôt une présentation des répertoires qui suivent, et non une présentation de soi-même.
+Cependant, en synthétisant les travaux épinglés, on donne aussi une image de soi-même comme développeur.  
+Le plus souvent : centres d'intérêt techniques, langages préférés, technnologies les plus utilisés. 
 
-### My projects
+## Mes projets
 
 #### Scripts 💾
 
 - [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
-
-#### School 👨‍🎓
+  
+#### exercices 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
-- [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [firstfm-android](https://github.com/angristan/firstfm-android): Android client for Last.fm written in **Kotlin** (the iOS one is much better)
-- [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
-- [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
-- [meet&do](https://github.com/angristan/meetndo): Meetup website made with **Ruby on Rails**
-- [Fight Food Waste](https://github.com/fight-food-waste): Fake non-profit for our 2nd year school project (**Laravel**, JavaFX, Express, C, GTK)
 
-#### DevOps 🔁
-
-- [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian/Ubuntu
-- [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in Docker
-- [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the **Pleroma** federated social network
-
-#### Web 🌐
-
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
-- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
-
-#### Docs ✍️
-
-- [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
-- [dotfiles](https://github.com/angristan/dotfiles): Personal **dotfiles** managed by **chezmoi**
-- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
-- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
-- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
-
-#### Tools 🛠
-
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
-- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
-- [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workouts charts from the Bsport API.
 
 ### 🌍 The languages I use
 
