@@ -15,17 +15,12 @@ Le plus souvent : centres d'intérêt techniques, langages préférés, technnol
 - [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
   
-#### exercices 👨‍🎓
+#### Exercices 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
 
 
-### 🌍 The languages I use
-
-| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" />                                                                                                                                          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a> |### Hi there 👋
 
 <!--
 **EWUnistra/EWUnistra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
